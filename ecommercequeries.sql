@@ -1,4 +1,4 @@
-CREATE DATABASE ecommerce;
+CREATE DATABASE ecommerceTwo;
 
 CREATE TABLE ecommerce.users (
     id int NOT NULL AUTO_INCREMENT,
